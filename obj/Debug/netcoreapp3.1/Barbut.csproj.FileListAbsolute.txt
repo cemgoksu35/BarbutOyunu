@@ -1,0 +1,13 @@
+/Users/cemgoksu/Projects/OOP/Barbut/bin/Debug/netcoreapp3.1/Barbut.deps.json
+/Users/cemgoksu/Projects/OOP/Barbut/bin/Debug/netcoreapp3.1/Barbut.runtimeconfig.json
+/Users/cemgoksu/Projects/OOP/Barbut/bin/Debug/netcoreapp3.1/Barbut.runtimeconfig.dev.json
+/Users/cemgoksu/Projects/OOP/Barbut/bin/Debug/netcoreapp3.1/Barbut.dll
+/Users/cemgoksu/Projects/OOP/Barbut/bin/Debug/netcoreapp3.1/Barbut.pdb
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.csproj.AssemblyReference.cache
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.AssemblyInfoInputs.cache
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.AssemblyInfo.cs
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.csproj.CoreCompileInputs.cache
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.dll
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.pdb
+/Users/cemgoksu/Projects/OOP/Barbut/obj/Debug/netcoreapp3.1/Barbut.genruntimeconfig.cache
